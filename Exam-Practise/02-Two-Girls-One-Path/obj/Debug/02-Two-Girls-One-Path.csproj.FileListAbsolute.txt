@@ -1,0 +1,6 @@
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\02-Two-Girls-One-Path\bin\Debug\02-Two-Girls-One-Path.exe.config
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Two-Girls-One-Path\bin\Debug\02-Two-Girls-One-Path.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Two-Girls-One-Path\bin\Debug\02-Two-Girls-One-Path.pdb
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Two-Girls-One-Path\obj\Debug\02-Two-Girls-One-Path.csprojResolveAssemblyReference.cache
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Two-Girls-One-Path\obj\Debug\02-Two-Girls-One-Path.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Two-Girls-One-Path\obj\Debug\02-Two-Girls-One-Path.pdb

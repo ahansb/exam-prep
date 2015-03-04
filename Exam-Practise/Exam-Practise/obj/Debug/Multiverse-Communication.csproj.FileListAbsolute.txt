@@ -1,0 +1,6 @@
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Exam-Practise\bin\Debug\Exam-Practise.exe.config
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Exam-Practise\bin\Debug\Exam-Practise.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Exam-Practise\bin\Debug\Exam-Practise.pdb
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Exam-Practise\obj\Debug\Multiverse-Communication.csprojResolveAssemblyReference.cache
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Exam-Practise\obj\Debug\Exam-Practise.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Exam-Practise\obj\Debug\Exam-Practise.pdb

@@ -1,0 +1,6 @@
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-TRES4-Numbers\bin\Debug\01-TRES4-Numbers.exe.config
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-TRES4-Numbers\bin\Debug\01-TRES4-Numbers.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-TRES4-Numbers\bin\Debug\01-TRES4-Numbers.pdb
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-TRES4-Numbers\obj\Debug\01-TRES4-Numbers.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-TRES4-Numbers\obj\Debug\01-TRES4-Numbers.pdb
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-TRES4-Numbers\obj\Debug\01-TRES4-Numbers.csprojResolveAssemblyReference.cache

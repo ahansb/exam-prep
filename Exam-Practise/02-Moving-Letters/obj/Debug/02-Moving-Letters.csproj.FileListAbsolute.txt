@@ -1,0 +1,6 @@
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Moving-Letters\bin\Debug\02-Moving-Letters.exe.config
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Moving-Letters\obj\Debug\02-Moving-Letters.csprojResolveAssemblyReference.cache
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Moving-Letters\bin\Debug\02-Moving-Letters.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Moving-Letters\bin\Debug\02-Moving-Letters.pdb
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Moving-Letters\obj\Debug\02-Moving-Letters.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Moving-Letters\obj\Debug\02-Moving-Letters.pdb

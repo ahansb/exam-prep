@@ -1,0 +1,3 @@
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\Magic-Words\bin\Debug\Magic-Words.exe.config
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\Magic-Words\obj\Debug\Magic-Words.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\Magic-Words\obj\Debug\Magic-Words.pdb

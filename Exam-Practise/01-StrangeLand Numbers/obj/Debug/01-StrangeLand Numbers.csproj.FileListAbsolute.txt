@@ -1,0 +1,5 @@
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-StrangeLand Numbers\bin\Debug\01-StrangeLand Numbers.exe.config
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-StrangeLand Numbers\bin\Debug\01-StrangeLand Numbers.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-StrangeLand Numbers\bin\Debug\01-StrangeLand Numbers.pdb
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-StrangeLand Numbers\obj\Debug\01-StrangeLand Numbers.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\01-StrangeLand Numbers\obj\Debug\01-StrangeLand Numbers.pdb

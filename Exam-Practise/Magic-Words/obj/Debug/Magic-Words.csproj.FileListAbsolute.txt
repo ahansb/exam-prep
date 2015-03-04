@@ -1,0 +1,6 @@
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Magic-Words\bin\Debug\Magic-Words.exe.config
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Magic-Words\bin\Debug\Magic-Words.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Magic-Words\bin\Debug\Magic-Words.pdb
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Magic-Words\obj\Debug\Magic-Words.csprojResolveAssemblyReference.cache
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Magic-Words\obj\Debug\Magic-Words.exe
+c:\users\andro\documents\visual studio 2013\Projects\Exam-Practise\Magic-Words\obj\Debug\Magic-Words.pdb

@@ -1,0 +1,6 @@
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Bunny-Factory\bin\Debug\02-Bunny-Factory.exe.config
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Bunny-Factory\bin\Debug\02-Bunny-Factory.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Bunny-Factory\bin\Debug\02-Bunny-Factory.pdb
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Bunny-Factory\obj\Debug\02-Bunny-Factory.csprojResolveAssemblyReference.cache
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Bunny-Factory\obj\Debug\02-Bunny-Factory.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Exam-Practise\02-Bunny-Factory\obj\Debug\02-Bunny-Factory.pdb
