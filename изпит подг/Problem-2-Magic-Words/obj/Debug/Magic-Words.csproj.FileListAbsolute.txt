@@ -1,0 +1,4 @@
+C:\Users\andro\Documents\telerik\C# part 2\изпит подг\Problem-2-Magic-Words\bin\Debug\Magic-Words.exe
+C:\Users\andro\Documents\telerik\C# part 2\изпит подг\Problem-2-Magic-Words\bin\Debug\Magic-Words.pdb
+C:\Users\andro\Documents\telerik\C# part 2\изпит подг\Problem-2-Magic-Words\obj\Debug\Magic-Words.exe
+C:\Users\andro\Documents\telerik\C# part 2\изпит подг\Problem-2-Magic-Words\obj\Debug\Magic-Words.pdb
